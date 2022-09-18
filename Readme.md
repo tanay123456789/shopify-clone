@@ -1,7 +1,7 @@
 ![image](https://img.shields.io/badge/tailwind-Shopify-green)
 
 
-## Shopify website clone using tailwind CSS  [live Link](https://shopify-clone-tailwind.netlify.app/)
+## Shopify website clone using tailwind CSS  [live Link]()
 
 **Name:** Tanay Dwivedi
 
